@@ -1,0 +1,18 @@
+﻿<Window x:Name="联盟杀手" x:Class="联盟杀手.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:联盟杀手"
+        mc:Ignorable="d"
+        Title="联盟杀手1.0" Height="350" Width="525" HorizontalAlignment="Left">
+    <Grid>
+        <Label x:Name="Process_Name" Content="输入进程名称：如LOL" HorizontalAlignment="Left" Margin="18,57,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ProcessName" HorizontalAlignment="Left" Height="23" Margin="170,57,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" />
+        <Label x:Name="Scan_Cycle" Content="输入查杀周期，默认三秒" HorizontalAlignment="Left" Margin="18,121,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ScanCycle" HorizontalAlignment="Left" Height="23" Margin="170,121,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" PreviewKeyDown="ScanCycle_OnPreviewKeyDown" />
+        <Button x:Name="Start" HorizontalAlignment="Left" Margin="347,121,0,0" VerticalAlignment="Top" Width="82" Height="23" Click="Start_Click"
+                Content="开始查杀"/>
+        <Label x:Name="Scan_Cycle_Copy" Content="秒" HorizontalAlignment="Left" Margin="290,119,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

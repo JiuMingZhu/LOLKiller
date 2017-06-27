@@ -1,0 +1,16 @@
+F:\GitHub\联盟杀手\联盟杀手\bin\Debug\联盟杀手.exe.config
+F:\GitHub\联盟杀手\联盟杀手\bin\Debug\联盟杀手.exe
+F:\GitHub\联盟杀手\联盟杀手\bin\Debug\联盟杀手.pdb
+F:\GitHub\联盟杀手\联盟杀手\obj\Debug\联盟杀手.csprojResolveAssemblyReference.cache
+F:\GitHub\联盟杀手\联盟杀手\obj\Debug\MainWindow.g.cs
+F:\GitHub\联盟杀手\联盟杀手\obj\Debug\App.g.cs
+F:\GitHub\联盟杀手\联盟杀手\obj\Debug\联盟杀手_MarkupCompile.cache
+F:\GitHub\联盟杀手\联盟杀手\obj\Debug\联盟杀手_MarkupCompile.lref
+F:\GitHub\联盟杀手\联盟杀手\obj\Debug\MainWindow.baml
+F:\GitHub\联盟杀手\联盟杀手\obj\Debug\联盟杀手.g.resources
+F:\GitHub\联盟杀手\联盟杀手\obj\Debug\联盟杀手.Properties.Resources.resources
+F:\GitHub\联盟杀手\联盟杀手\obj\Debug\联盟杀手.csproj.GenerateResource.Cache
+F:\GitHub\联盟杀手\联盟杀手\obj\Debug\联盟杀手.exe
+F:\GitHub\联盟杀手\联盟杀手\obj\Debug\联盟杀手.pdb
+F:\GitHub\联盟杀手\联盟杀手\bin\Debug\Newtonsoft.Json.dll
+F:\GitHub\联盟杀手\联盟杀手\bin\Debug\Newtonsoft.Json.xml
